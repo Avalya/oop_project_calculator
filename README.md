@@ -78,3 +78,8 @@ This class creates the main window of the calculator application, handles user i
 **Input (Button Clicks):** `5` `+` `3` `=`
 
 **Screenshot:**
+![IMAGE 2025-03-19 15:39:33](https://github.com/user-attachments/assets/068a445b-b16a-4c2a-962d-982eb92316ad)
+
+![IMAGE 2025-03-19 15:39:20](https://github.com/user-attachments/assets/6d3dc555-89fc-49ad-8fec-64e8a738c506)
+
+
