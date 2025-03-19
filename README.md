@@ -75,7 +75,7 @@ This class creates the main window of the calculator application, handles user i
 
 **Sample Run 1: Addition**
 
-**Input (Button Clicks):** `5` `+` `3` `=`
+**Input (Button Clicks):** `3` `+` `3` `=`
 
 **Screenshot:**
 ![IMAGE 2025-03-19 15:39:33](https://github.com/user-attachments/assets/068a445b-b16a-4c2a-962d-982eb92316ad)
